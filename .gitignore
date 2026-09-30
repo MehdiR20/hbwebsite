@@ -1,0 +1,5 @@
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
+admin/inc/mpdf/vendor/mpdf/mpdf/tmp/
